@@ -6,6 +6,9 @@ This Magisk module installs the latest stable version of github-cli to the targe
 
 ## Change Log
 
+### v1.1 - 2021-03-16
+* Updated github-cli to v1.7.0
+
 ### v1.0 - 2020-10-14
 * Initial release
 

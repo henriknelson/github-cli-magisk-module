@@ -1,6 +1,6 @@
 id=github-cli-nelshh
 name=github-cli for Android
-version=1.1.0
-versionCode=1
+version=1.7.0
+versionCode=2
 author=nelshh
 description=A statically built version of github-cli for android (aarch64)
